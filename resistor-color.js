@@ -3,7 +3,6 @@ const colors = ["black", "brown", "red", "orange", "yellow", "green", "blue", "v
 
 export const colorCode = (color) => {
       return colors.indexOf(color);
-  
 };
 
 export const COLORS = undefined;
